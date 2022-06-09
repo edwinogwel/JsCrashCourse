@@ -1,4 +1,4 @@
 # JsCrashCourse
 ### Fundamentals of JavaScript
 #### Link to live site
-https://edwinogwel.github.io/JsCrashCourse/
+https://edwinogwel.github.io/js-crash_course/
